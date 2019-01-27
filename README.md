@@ -1,16 +1,6 @@
-# airasia_new_flight
+# Flight search
 
-A new Flutter project.
+This is my second UI Challenge. I picked a [Jhony Vino](https://www.behance.net/johnyvino)'s [Flight search design](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e36a3e53917017.594779c56ecbf.gif) from [100 Mobile App UI Interactions](https://www.behance.net/gallery/53917017/100-Best-Mobile-App-Interaction) and implemented it in Flutter.  
 
-## Getting Started
+Whole process of development is documented on my [blog](http://35.197.160.118/index.php/2018/12/19/airasia-new-layout/).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
